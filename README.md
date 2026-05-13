@@ -1,4 +1,3 @@
-[simulador-earnout-incorporadora.html](https://github.com/user-attachments/files/27722001/simulador-earnout-incorporadora.html)
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
